@@ -1,0 +1,11 @@
+{
+    "require": {
+        "illuminate/support": "^5.4",
+        "phpunit/phpunit": "^5.7"
+    },
+    "autoload": {
+        "files": [
+            "src/Transformer.php"
+        ]
+    }
+}
