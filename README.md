@@ -1,6 +1,6 @@
-#Collection Exercise
+# Collection Exercise
 
-##如何執行程式
+## 如何執行程式
 ```
 $ git clone https://github.com/butanychuang/collection-exercise
 $ cd collection-exercise
@@ -8,7 +8,7 @@ $ composer install
 $ ./vendor/bin/phpunit test.php
 ```
 
-##題目
+## 題目
 https://gist.github.com/lanlove/8d063292278a4c075c66b859d6c48ca3
 
 * 得到的資料
